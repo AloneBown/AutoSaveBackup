@@ -1,6 +1,6 @@
 # AutoSaveBackup Plugin
 
-AutoSaveBackup is a lightweight Paper/Spigot plugin designed to automatically save your Minecraft server worlds and create compressed backups at configurable intervals. It also includes an autosave feature to ensure your server data is regularly saved to disk, preventing data loss.
+AutoSaveBackup is a lightweight Bukkit plugin designed to automatically save your Minecraft server worlds and create compressed backups at configurable intervals. It also includes an autosave feature to ensure your server data is regularly saved to disk, preventing data loss.
 
 ## Features
 
