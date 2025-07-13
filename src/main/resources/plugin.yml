@@ -1,0 +1,6 @@
+name: AutoSaveBackup
+version: 1.0.0
+main: com.alonebown.autosavebackup.AutoSaveBackup
+api-version: 1.18
+authors: [AloneBown]
+description: Plagin for automatic server backups and autosaves.
