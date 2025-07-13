@@ -32,7 +32,7 @@ max_backups: 5
 # Server autosave interval in minutes
 autosave_interval_minutes: 10
 
-# Plugin messages. Users can change these values for localization.
+# Plugin messages.
 messages:
   autosave_start_broadcast: "&e[AutoSaveBackup] Server is saving all worlds..."
   autosave_complete_broadcast: "&a[AutoSaveBackup] Server autosave complete!"
